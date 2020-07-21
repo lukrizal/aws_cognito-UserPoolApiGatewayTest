@@ -12,7 +12,7 @@
     "@babel/preset-env": "^7.10.2",
     "aws-amplify": "^3.0.17",
     "inquirer": "^7.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "node-fetch": "^2.6.0"
   }
 }
